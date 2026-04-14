@@ -5,7 +5,7 @@
 ```bash
 DataScientistPorto/
 ├── CarsPricesPrediction/
-│   ├── CarsData.csv
-│   └── Desc.md
+│   ├── cars-data.csv
+│   └── desc.md
 └── README.md
 ```
