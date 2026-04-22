@@ -4,6 +4,11 @@
 - **Technologies Used**: Decision Tree Regressor
 - **Result**: Accuracy 86.84%
 
+1. [**Car Prices Prediction**](https://github.com/Afwanms/DataScientistPorto/tree/main/RedWineQuality)
+- **Description**: -
+- **Technologies Used**: -
+- **Result**: -
+
 # Folder Structure
 ```bash
 DataScientistPorto/
