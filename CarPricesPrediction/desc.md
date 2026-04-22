@@ -1,7 +1,7 @@
 # Car Prices Prediction
 
 ## Overview
-This projects is aims to predict car prices in belarus using car features.The goal is to build a machine learning model that can estimate car prices accurately.
+This project aims to predict car prices in Belarus using various car features. The goal is to build a machine learning model that can estimate car prices accurately.
 
 
 ## Dataset
@@ -31,7 +31,7 @@ This projects is aims to predict car prices in belarus using car features.The go
 - NumPy
 - Seaborn
 - Scikit-learn
-- Decission Tree Regression
+- Decision Tree Regression
 
 
 ## Workflow
@@ -42,8 +42,7 @@ This projects is aims to predict car prices in belarus using car features.The go
 - Created new feature by grouping car brands into categories
 
 ### 2. Exploratory Data Analysis
-- Visualized categorical distributions
-- Visualized numerical distributions
+- Visualized and analyzed categorical and numerical distributions
 - Identified top car brands by average price
 - Explored price trends based on:
   - Condition
@@ -57,7 +56,7 @@ This projects is aims to predict car prices in belarus using car features.The go
 
 ### 4. Modeling
 - Split data into training and testing
-- Using Decission Tree Regression model
+- Using Decision Tree Regression model
 - Tune hyperparameters using GridSearchCV
 
 ## Result
