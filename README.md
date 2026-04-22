@@ -11,5 +11,9 @@ DataScientistPorto/
 │   ├── cars-code.py
 │   ├── cars-data.csv
 │   └── desc.md
+├── RedWineQuality/
+│   ├── wine-code.py
+│   ├── wine-data.csv
+│   └── desc.md
 └── README.md
 ```
