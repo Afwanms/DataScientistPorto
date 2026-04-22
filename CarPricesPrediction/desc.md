@@ -52,12 +52,13 @@ This projects is aims to predict car prices in belarus using car features.The go
   - Brand category
 
 ### 3. Feature Engineering
-- 
+- Use label encoding to encode categorical variables
+- Analyzed feature correlations using heatmap
+
 ### 4. Modeling
-- Using Decission Tree Regression model
 - Split data into training and testing
-- Evaluate model
+- Using Decission Tree Regression model
+- Tune hyperparameters using GridSearchCV
 
 ## Result
-
-## Conclusion
+The Decision Tree model achieved strong performance with an R² score of 0.8684, a Mean Absolute Error (MAE) of 1331, and a Root Mean Squared Error (RMSE) of 2051. The analysis shows that car price is primarily influenced by factors such as production year and mileage, where newer cars tend to have higher prices while higher mileage reduces value. Overall, the model provides a baseline for car price prediction.
