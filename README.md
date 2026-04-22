@@ -8,11 +8,11 @@
 ```bash
 DataScientistPorto/
 ├── CarsPricesPrediction/
-│   ├── cars-code.py
+│   ├── cars-code.ipynb
 │   ├── cars-data.csv
 │   └── desc.md
 ├── RedWineQuality/
-│   ├── wine-code.py
+│   ├── wine-code.ipynb
 │   ├── wine-data.csv
 │   └── desc.md
 └── README.md
